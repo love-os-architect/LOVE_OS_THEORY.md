@@ -65,12 +65,6 @@ How Love-OS translates different domains into one language.
 | **Religion** | Sin (Separation from God) | Atonement (Return to Oneness) | $\text{Debt} \to 0$ |
 | **AI** | Overfitting / Hallucination | Generalization / Truth Grounding | Regularization $\lambda$ |
 
-## 🧩 Extensions & Modules
-Love-OS is designed to be a universal runtime. You can load different philosophical "drivers" depending on your needs.
-* **[Buddhism Mode](./WISDOM_MODULES.md#1-buddhism)**: For suffering reduction and mindfulness.
-* **[Stoicism Mode](./WISDOM_MODULES.md#2-stoicism)**: For resilience and rationality in chaos.
-* **[Existentialism Mode](./WISDOM_MODULES.md#3-existentialism)**: For finding meaning and authenticity.
-
 
 ---
 
